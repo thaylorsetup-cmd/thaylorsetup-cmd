@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Thaylor&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Systems%20Architect%20%C2%B7%20AI%20Builder&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Thaylor&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Cybersecurity%20Enthusiast%20%C2%B7%20AI%20Builder&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+systems+that+replace+chaos+with+automation+%F0%9F%9A%80;From+legacy+ERPs+to+LLM-powered+agents+%F0%9F%A4%96;Turning+ideas+into+production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+secure+systems+that+replace+chaos+with+automation+%F0%9F%9A%80;From+pentesting+to+LLM-powered+agents+%F0%9F%94%90;Security-first+mindset+%C2%B7+Production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://github.com/thaylorsetup-cmd">
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%7C%20Cybersecurity-58a6ff?style=for-the-badge" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/BASED%20IN-Goiânia%2C%20Brazil-238636?style=for-the-badge" />
@@ -26,10 +26,10 @@
 
 ```ts
 const thaylor = {
-    role: "Full Stack Developer",
+    role: "Full Stack Developer & Cybersecurity Specialist",
     location: "Goiânia, GO — Brazil",
     education: "Software Engineering (6th semester)",
-    approach: "Self-taught · Problem-solver · End-to-end builder",
+    approach: "Self-taught · Security-first · End-to-end builder",
 
     languages: ["pt-BR 🇧🇷", "en-US 🇺🇸", "es 🇪🇸", "fr 🇫🇷"],
 
@@ -39,11 +39,18 @@ const thaylor = {
         building: [
             "SaaS operations platform",
             "AI-powered financial auditing",
-            "Legacy ERP API wrappers"
+            "Legacy ERP API wrappers",
+            "Infrastructure hardening & monitoring"
         ]
     },
 
-    motto: "If it can be automated, it should be."
+    security: {
+        background: "Ethical hacking & penetration testing",
+        focus: ["DevSecOps", "Infrastructure hardening", "Threat detection"],
+        trajectory: "Full Stack → DevSecOps Engineer"
+    },
+
+    motto: "If it can be automated, it should be — securely."
 };
 ```
 
@@ -98,6 +105,16 @@ const thaylor = {
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" height="30" />
+</p>
+
+#### ▸ Security & DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentesting-cc0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 #### ▸ AI & LLM Integration
@@ -160,9 +177,9 @@ const thaylor = {
     <td width="50%" valign="top">
       <h3 align="center">👁️ The Monitor</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Meta--System-Efficiency%20Detection-8957e5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Meta--System-Efficiency%20%26%20Threat%20Detection-8957e5?style=flat-square" />
       </p>
-      <p align="center">Meta-system designed to detect operational inefficiencies across the entire infrastructure — monitoring workflows, flagging bottlenecks, and suggesting automated improvements.</p>
+      <p align="center">Meta-system designed to detect operational inefficiencies and security anomalies across the entire infrastructure — monitoring workflows, flagging threats, and triggering automated responses.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/LLM%20Agents-D97706?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
@@ -205,6 +222,9 @@ const thaylor = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaylorsetup-cmd&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=161b22&hide_border=true" width="95%" />
 </div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ &nbsp;What Drives Me
@@ -214,11 +234,12 @@ const thaylor = {
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   ⚡  Automating operational bottlenecks end-to-end              │
+│   🔐  Security-first development & infrastructure hardening      │
 │   🧠  Orchestrating LLM agents for real business problems        │
-│   🔐  DevSecOps practices & infrastructure hardening             │
-│   🔄  Modernizing legacy systems into maintainable services      │
-│   📐  Designing architecture that scales with the team           │
+│   ⚡  Automating operational bottlenecks end-to-end              │
+│   🕵️  Ethical hacking & offensive security research              │
+│   🔄  Modernizing legacy systems into secure, maintainable APIs  │
+│   📐  Designing architecture that scales — and resists attack    │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
