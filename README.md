@@ -181,8 +181,8 @@ const thaylor = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&include_all_commits=true" />
   </picture>
   &nbsp;
   <picture>
@@ -195,7 +195,7 @@ const thaylor = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaylorsetup-cmd&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaylorsetup-cmd&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&exclude_days=&date_format=j%20M%5B%20Y%5D" />
     <img src="https://streak-stats.demolab.com?user=thaylorsetup-cmd" />
   </picture>
 </div>
@@ -205,8 +205,6 @@ const thaylor = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaylorsetup-cmd&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=161b22&hide_border=true" width="95%" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
