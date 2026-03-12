@@ -195,8 +195,8 @@ const thaylor = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaylorsetup-cmd&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-    <img src="https://streak-stats.demolab.com?user=thaylorsetup-cmd" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaylorsetup-cmd&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&hide_total_contributions=true" />
+    <img src="https://streak-stats.demolab.com?user=thaylorsetup-cmd&hide_total_contributions=true" />
   </picture>
 </div>
 
