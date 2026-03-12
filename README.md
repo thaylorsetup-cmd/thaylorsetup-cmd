@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+secure+systems+that+replace+chaos+with+automation+%F0%9F%9A%80;From+pentesting+to+LLM-powered+agents+%F0%9F%94%90;Security-first+mindset+%C2%B7+Production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=Building+secure+systems+that+replace+chaos+with+automation+%F0%9F%9A%80;From+pentesting+to+LLM-powered+agents+%F0%9F%94%90;Security-first+mindset+%C2%B7+Production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
 <br/>
 
 <a href="https://github.com/thaylorsetup-cmd">
