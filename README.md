@@ -181,13 +181,13 @@ const thaylor = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-thaylor.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-thaylor.vercel.app/api?username=thaylorsetup-cmd&show_icons=true&include_all_commits=true" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylorsetup-cmd&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylorsetup-cmd&layout=compact&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-thaylor.vercel.app/api/top-langs/?username=thaylorsetup-cmd&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-thaylor.vercel.app/api/top-langs/?username=thaylorsetup-cmd&layout=compact&langs_count=8" />
   </picture>
 </div>
 
@@ -205,7 +205,6 @@ const thaylor = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaylorsetup-cmd&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=161b22&hide_border=true" width="95%" />
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ &nbsp;What Drives Me
